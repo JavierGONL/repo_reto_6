@@ -1,3 +1,9 @@
+
+<div align='center'>
+<figure> <img src="https://i.postimg.cc/HkMddSNw/error-418.png" alt="" width="300" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
 # reto_6
 
 1. Dado la figura de la imagen, desarrolle:
