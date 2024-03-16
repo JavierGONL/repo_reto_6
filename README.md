@@ -237,7 +237,7 @@ def raiz_cubica_menor_numero(numero1,numero2,numero3,numero4,numero5):
 ```
 9. Consultar qué es y cómo funciona *pip* en python.
 - que es pip?
-pip es un sistema de gestión de paquetes utilizado para instalar y administrar paquetes de software escritos en Python.
+- pip es un sistema de gestión de paquetes utilizado para instalar y administrar paquetes de software escritos en Python.
 - como funciona?
  puedes instalar paquetes de sofware con el siquiente comando:
   ```
