@@ -254,6 +254,11 @@ def raiz_cubica_menor_numero(numero1,numero2,numero3,numero4,numero5):
 10. Hacer un listado de módulos populares para python que se puedan instalar com *pip* y consultar cómo instalarlos.
 + listado de programas populares
   ```
-
+- Request
+- Tkinter
+- OpenCV
+- Matplotlib
+- Pandas
+- Pillow(o PIL)
   
   ```
